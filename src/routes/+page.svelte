@@ -1,8 +1,9 @@
-<header class="bg-white py-4 shadow-md">
-    <div class="container mx-auto px-4">
-        <h1 class="text-2xl font-bold font-semibold">
+<header class="bg-white py-4 shadow-md sticky top-0 z-10">
+    <div class="container mx-auto px-4 flex justify-between items-center">
+        <h1 class="text-2xl font-semibold">
             Jasmita
         </h1>
+        <a href="/add-post" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">Add post</a>
     </div>
     
 </header>
